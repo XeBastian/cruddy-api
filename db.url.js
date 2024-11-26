@@ -1,3 +1,3 @@
-const mongoUrl = "mongodb+srv://admin:ad123min@backend.aesau.mongodb.net/?retryWrites=true&w=majority&appName=Backend";
+const mongoUrl = "[ENTER YOUR SERVER LINK STARTS WITH mongodb+srv://]"
 
 export default mongoUrl;
